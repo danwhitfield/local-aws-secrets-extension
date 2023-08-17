@@ -8,4 +8,4 @@ RUN npm ci
 
 EXPOSE 2773
 
-CMD ["ts-node", "index.ts"]
+CMD ["npm", "start"]
